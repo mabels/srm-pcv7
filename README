@@ -1,0 +1,8 @@
+This should read and write a srm pcv7 power control 7. 
+It could currently read out the data but i can't understand the read 
+out data.
+TODO:
+- Understand the checksum byte
+- Read out all datasources like powermeter, speed, heart beat...
+
+
